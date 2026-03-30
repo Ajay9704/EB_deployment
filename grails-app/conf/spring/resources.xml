@@ -1,0 +1,6 @@
+grails-app/conf/spring/resources.xml
+grails-app/i18n/
+grails-app/services/
+grails-app/views/error.gsp
+grails-app/views/notFound.gsp
+src/test/groovy/
